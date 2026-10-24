@@ -1,0 +1,19 @@
+# Ambientes e configurações locais
+.venv/
+venv/
+.env
+.vscode/
+
+# Cache e arquivos Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de notebook temporários
+.ipynb_checkpoints/
+
+# Dados locais: confirme a licença antes de publicar
+data/*.csv
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
